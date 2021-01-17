@@ -1,0 +1,5 @@
+{  
+  "redirects": [
+    { "source": "/test", "destination": "https://api.instatus.com/test.json" }
+  ]
+}
